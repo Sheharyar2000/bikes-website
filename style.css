@@ -1,0 +1,11 @@
+ marquee{
+   background-color: #444952;
+   color: white;
+   height: 50px;
+   padding-top: 10px;
+}
+.heading h2{
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 0px 0px 5px grey;
+}
